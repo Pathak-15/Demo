@@ -1,0 +1,13 @@
+#!/bin/bash
+
+var1="hello"
+
+echo $0 $1
+echo $var1
+
+
+
+
+
+
+
